@@ -1,3 +1,7 @@
+> **分支声明**
+> 本仓库是 [darrenprx/lolPing](https://github.com/darrenprx/lolPing) 的 fork（分支）。
+> 它沿用原始项目的 [MIT 许可证](LICENSE)；源代码版权归 Danrui Meng 所有，原始版权与许可声明均完整保留。
+
 <h1 align="center"><img src="assets/textures/generic_ping.png" width="56" alt=""><br>lolPing</h1>
 
 <p align="center">
