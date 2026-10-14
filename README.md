@@ -20,9 +20,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/darrenprx/lolPing/actions/workflows/ci.yml"><img src="https://github.com/darrenprx/lolPing/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
-  <a href="https://github.com/M49P6BK/lolPing/releases/latest"><img src="https://img.shields.io/github/v/release/darrenprx/lolPing" alt="Latest release"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/darrenprx/lolPing" alt="MIT license"></a>
+  <a href="https://github.com/M49P6BK/lolPing/actions/workflows/ci.yml"><img src="https://github.com/M49P6BK/lolPing/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="https://github.com/M49P6BK/lolPing/releases/latest"><img src="https://img.shields.io/github/v/release/M49P6BK/lolPing" alt="Latest release"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/M49P6BK/lolPing" alt="MIT license"></a>
 </p>
 
 <p align="center"><img src="docs/media/demo.gif" width="880" alt="An app freezes with a not-responding dialog, and the ping wheel drops three Enemy Missing pings on it"></p>
