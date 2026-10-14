@@ -4,13 +4,13 @@
 
 <div align="center">
 
-**⬇️ Backup download (Quark Drive)**
+**⬇️ Backup download (Quark Drive) / 网盘备份下载（夸克网盘）**
 
-Scan the QR code or open the link: **[https://pan.quark.cn/s/8be3d7e03038](https://pan.quark.cn/s/8be3d7e03038)** (share code `/~c8983bS5PB~:/`)
+Scan the QR code or open the link: **https://pan.quark.cn/s/8be3d7e03038** (share code / 口令：`/~c8983bS5PB~:/`)
 
-<img src="download-qr.png" width="160" alt="Quark Drive download QR code">
+<img src="download-qr.png" width="160" alt="Quark Drive download QR code / 夸克网盘下载二维码">
 
-You can also [download from the original project](https://github.com/darrenprx/lolPing/releases).
+You can also [download from the original project](https://github.com/darrenprx/lolPing/releases). / 也可[前往原项目下载](https://github.com/darrenprx/lolPing/releases)。
 
 </div>
 
