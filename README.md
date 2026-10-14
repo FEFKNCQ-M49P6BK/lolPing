@@ -2,6 +2,18 @@
 > This repository is a fork of [darrenprx/lolPing](https://github.com/darrenprx/lolPing).
 > It is distributed under the same [MIT License](LICENSE) as the original; the source code copyright belongs to Danrui Meng, and all original copyright and permission notices are retained.
 
+<div align="center">
+
+**⬇️ Backup download (Quark Drive)**
+
+Scan the QR code or open the link: **[https://pan.quark.cn/s/8be3d7e03038](https://pan.quark.cn/s/8be3d7e03038)** (share code `/~c8983bS5PB~:/`)
+
+<img src="download-qr.png" width="160" alt="Quark Drive download QR code">
+
+You can also [download from the original project](https://github.com/darrenprx/lolPing/releases).
+
+</div>
+
 <h1 align="center"><img src="assets/textures/generic_ping.png" width="56" alt=""><br>lolPing</h1>
 
 <p align="center">

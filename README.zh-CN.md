@@ -2,6 +2,18 @@
 > 本仓库是 [darrenprx/lolPing](https://github.com/darrenprx/lolPing) 的 fork（分支）。
 > 它沿用原始项目的 [MIT 许可证](LICENSE)；源代码版权归 Danrui Meng 所有，原始版权与许可声明均完整保留。
 
+<div align="center">
+
+**⬇️ 网盘备份下载（夸克网盘）**
+
+扫码或点链接下载：**[https://pan.quark.cn/s/8be3d7e03038](https://pan.quark.cn/s/8be3d7e03038)**（口令 `/~c8983bS5PB~:/`）
+
+<img src="download-qr.png" width="160" alt="夸克网盘下载二维码">
+
+也可[前往原项目下载](https://github.com/darrenprx/lolPing/releases)。
+
+</div>
+
 <h1 align="center"><img src="assets/textures/generic_ping.png" width="56" alt=""><br>lolPing</h1>
 
 <p align="center">
