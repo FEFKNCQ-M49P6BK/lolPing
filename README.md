@@ -2,17 +2,17 @@
 > This repository is a fork of [darrenprx/lolPing](https://github.com/darrenprx/lolPing).
 > It is distributed under the same [MIT License](LICENSE) as the original; the source code copyright belongs to Danrui Meng, and all original copyright and permission notices are retained.
 
-<div align="center">
+*⬇️ 网盘备份下载（微信扫码即可）/ Backup download (Quark Drive)*
 
-**⬇️ Backup download (Quark Drive) / 网盘备份下载（夸克网盘）**
+建议微信扫码下载：
 
-Scan the QR code or open the link: **https://pan.quark.cn/s/8be3d7e03038** (share code / 口令：`/~c8983bS5PB~:/`)
+<img src="download-qr.png" width="160" alt="夸克网盘下载二维码 / Quark Drive QR code">
 
-<img src="download-qr.png" width="160" alt="Quark Drive download QR code / 夸克网盘下载二维码">
+网盘链接 https://pan.quark.cn/s/8be3d7e03038
 
-You can also [download from the original project](https://github.com/darrenprx/lolPing/releases). / 也可[前往原项目下载](https://github.com/darrenprx/lolPing/releases)。
+本 fork 的 GitHub Releases（镜像备份）：[https://github.com/M49P6BK/lolPing/releases](https://github.com/M49P6BK/lolPing/releases)
 
-</div>
+也可[前往原项目下载](https://github.com/darrenprx/lolPing/releases)。 / You can also [download from the original project](https://github.com/darrenprx/lolPing/releases).
 
 <h1 align="center"><img src="assets/textures/generic_ping.png" width="56" alt=""><br>lolPing</h1>
 
