@@ -1,6 +1,10 @@
-> **Fork notice**
+> **分支声明（Fork notice）**
+> 本仓库是 [darrenprx/lolPing](https://github.com/darrenprx/lolPing) 的 fork（分支），保留原始版权与许可声明，未作修改。
+> 如果你在中国大陆，或访问 GitHub 出现下载慢、无法访问的情况，请直接使用下方夸克网盘链接下载，无需访问 GitHub：
+> **夸克网盘**：https://pan.quark.cn/s/50497effc76f （微信扫码或点链接即可，含完整 release 文件）
+>
+> 若 GitHub 访问正常，也可在 [本 fork 的 Releases](https://github.com/M49P6BK/lolPing/releases) 或 [原项目 Releases](https://github.com/darrenprx/lolPing/releases) 下载。
 
-> It is distributed under the same [MIT License](LICENSE) as the original; the source code copyright belongs to Danrui Meng, and all original copyright and permission notices are retained.
 
 *⬇️ > **🌐 国内 / 网络不佳时的下载备选（网盘镜像）**
 > 如果你在中国大陆，或访问 GitHub 出现**下载慢、速度为 0、`Failed to fetch`、`network error`、页面打不开**等情况，请**直接使用下方夸克网盘链接下载**，无需访问 GitHub：
